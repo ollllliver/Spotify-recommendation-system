@@ -1,11 +1,10 @@
 # Spotify Recommender Systems
 
-<t style="color: #1DB954; font-size: xx-large; font-weight: bold;">Spotify</t> 
-<t style="color: #BA3FC9; font-size: xx-large; font-weight: bold;">Million</t> 
-<t style="color: #239CDE; font-size: xx-large; font-weight: bold;">Playlist</t>
-<t style="color: #E6CA17; font-size: xx-large; font-weight: bold;">Dataset</t>
+![Bunter Name](/documents/SMPD.png)
 
 Gruppenprojekt Wintersemester 2021/22
+
+---
 
 ## Die Challenge 🥇
 
